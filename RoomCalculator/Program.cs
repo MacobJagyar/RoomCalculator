@@ -43,5 +43,5 @@ else if (area > 250 && area < 650)
 }
 else if (area > 650)
 {
-    Console.WriteLine("\nThis is a large room!");
+    Console.WriteLine("\nThis is a large room!"); //testing this
 }
